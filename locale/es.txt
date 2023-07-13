@@ -1,0 +1,51 @@
+#: locale=es
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Tour Virtual
+
+## Media
+
+### Título
+panorama_90857257_9A3F_2899_41E1_A9AF546B72DD.label = baño h1
+panorama_916D6F3B_9A38_D888_4171_404DEA4F9519.label = dji_fly_20230414_103650_121_1681736363348_pano_optimized
+panorama_93F0BFAC_9A39_3788_41CD_FC49ADAF324B.label = terraza
+panorama_93F0D5CB_9A39_6B89_4196_DA3349EAB40C.label = valcon h3
+panorama_93F0EFD3_9A3B_3799_41D2_9735A0D7F138.label = h3 2
+panorama_93F10667_9A3B_68B9_41D8_68FCA95BCEB5.label = h3
+panorama_93F1111D_9A3B_2889_41E1_5962FEEB5540.label = pasillo entrada
+panorama_93F11A28_9A3B_D888_41E2_783F77EE97C5.label = patio 1
+panorama_93F11C8D_9A38_D988_41E1_AEB542DD8789.label = sala
+panorama_93F120DF_9A3B_6989_41B2_8AAE5E84A545.label = patio frontal
+panorama_93F12AFE_9A3B_598B_41E0_35729AAB6066.label = marquesina
+panorama_93F14655_9A3B_E899_41B0_E23255135EF0.label = pasillo sala comedor
+panorama_93F14F56_9A3B_389B_41D0_59A13D9A139A.label = protico
+panorama_93F179CB_9A38_FB88_41C3_B2C3D73BDA53.label = sala de estar
+panorama_93F1CD8D_9A3B_3B88_41D6_6AC65BABCC5A.label = patio 2
+panorama_93F1FC3D_9A3B_5889_41CE_EFCB15EFDFCC.label = piscina
+panorama_93F213CA_9A3F_2F8B_41DA_81D1EBE4CA22.label = baño sala de estar
+panorama_93F23F6C_9A3F_588F_4196_C040699C0373.label = baño h3
+panorama_93F29742_9A38_E8FB_41C0_265403BA8C2E.label = comedor
+panorama_93F2A0B2_9A39_699B_41B8_8817196477EB.label = escalera3
+panorama_93F2FB23_9A38_D8B8_41E0_536CE4B940CB.label = h2
+panorama_93F3159D_9A39_2B88_41CF_5CAF9D459109.label = escalera 2
+panorama_93F32407_9A39_2879_419F_898D39BF4630.label = h1 3
+panorama_93F337E1_9A38_F7B9_41CA_C90ABC016516.label = h1
+panorama_93F37E6C_9A39_388F_41D3_586F96B44520.label = cosina2
+panorama_93F37FCF_9A39_5788_41D1_9D40786EDDC6.label = h1 2
+panorama_93F38B34_9A39_789F_41B5_8EBF33AF64FF.label = distribuidor de habitaciones
+panorama_93F3AB6F_9A39_F889_41D0_715B751D777E.label = escalera 1
+panorama_93F3BA46_9A38_D8F8_41C2_D5C9B1DEFCCB.label = Cosina 1
+panorama_93F3DB53_9A39_3899_41CD_E9E054079890.label = entrada
+panorama_93FD6C70_9A3F_7897_41E0_F66666BCF30C.label = baño h2
+panorama_93FF22D3_9A39_6998_41C5_DB1BA4336CAC.label = valcon h1
+panorama_93FF58CD_9A39_3989_41E1_A41A5A24A965.label = vestidor h1
+
+## Acción
+
+### URL
+LinkBehaviour_4004AF6A_4CAB_278E_41AC_6613B74A958F.source = https://api.whatsapp.com/send?phone=18296840422&text=Saludos%20me%20gustaria%20optener%20mas%20informacion%20sobre%20este%20inmueble.%F0%9F%8F%A1
+LinkBehaviour_402E62AC_4CAB_1E8A_41C8_93229147B121.source = https://api.whatsapp.com/send?phone=18296840422&text=Saludos%20me%20gustaria%20optener%20mas%20informacion%20sobre%20este%20inmueble.%F0%9F%8F%A1
